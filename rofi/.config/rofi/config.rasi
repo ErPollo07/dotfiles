@@ -1,0 +1,15 @@
+configuration {
+  modi: "drun,window,ssh,combi";
+  icon-theme: "Oranchelo";
+  show-icons: true;
+  terminal: "alacritty";
+  drun-display-format: "{icon} {name}";
+  location: 0;
+  disable-history: false;
+  hide-scrollbar: true;
+  display-combi: "All ";
+  display-run: "Run ";
+  display-drun: "D-Run ";
+  display-window: " Window";
+  sidebar-mode: true;
+}
