@@ -29,4 +29,4 @@ lrwxrwxrwx 1 erpollo erpollo  31 Dec 18 15:03 picom -> ../dotfiles/picom/.config
 somthigs else
 ```
 
-This are symlink.
+This are symlinks.
