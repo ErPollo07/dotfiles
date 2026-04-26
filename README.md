@@ -1,24 +1,33 @@
 # Dotfies
 
 In this repository, you will find my personal collection of dotfiles used to configure my development environment. These files help streamline my workflow and ensure consistency across different machines.
+There are linux and windows confiugrations.
 
 ## How it works
 
-## How to use it
+### Linux
 
-Go to this folder and run this command:
+To apply linux configuration you have to move in the linux folder:
+```bash
+cd linux
+```
+
+From there you can run this command:
+
 ```bash
 stow \<any folder you like\>
 ```
 
-With this command you create a symlink.
+This will create a symlink.
 
 To verify if the symlink is created go to the first folder in your path and run:
+
 ```bash
 ls -latr
 ```
 
 If you see somethings like this:
+
 ```txt
 somethigs else
 ...
