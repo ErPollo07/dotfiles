@@ -1,0 +1,135 @@
+.
+├── alacritty
+│   └── .config
+│       └── alacritty
+│           ├── alacritty.toml
+│           └── catppuccin-mocha.toml
+├── backgrounds
+│   └── .config
+│       └── backgrounds
+│           └── arch-btw.png
+├── bat
+│   └── .config
+│       └── bat
+│           └── config
+├── .editorconfig
+├── .git
+│   ├── branches
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── main
+│   ├── objects
+│   │   ├── 0c
+│   │   │   └── bf0c2e8dd6e47ae78a1595727b6be2a90c16bc
+│   │   ├── 2d
+│   │   │   └── 2520c0adf9e02af238a5bed8632f4f1f0c1435
+│   │   ├── 41
+│   │   │   └── 0b9fd8c106a2ef7a9cde95c82aceb340762fe7
+│   │   ├── 5b
+│   │   │   └── db4b6fd9f565845549a14afb17b4cdf74bf5cc
+│   │   ├── 7a
+│   │   │   └── 414b68c08d9d97bfe78dd8c18fcfb39a90e844
+│   │   ├── ba
+│   │   │   └── 5a5c23c6ca0c8bd1150c6aa01850a8dbdf1ea4
+│   │   ├── d3
+│   │   │   └── 61b7bd6335f9c718b7296f9240cc61578536ce
+│   │   ├── db
+│   │   │   └── bff7bc271e1e2c076a849a720717e8ab7acb27
+│   │   ├── dc
+│   │   │   └── 6f9237401cf3d09bf4c69d18727f1b8c828bfe
+│   │   ├── ed
+│   │   │   └── a6eafea5d0b3161e9529a0b142742514716a78
+│   │   ├── fd
+│   │   │   └── 984404346718dd4fc831f804e65f7dec5a87f0
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-6a457f29bdd2c761f7500b4a846c8adef960fcd9.idx
+│   │       ├── pack-6a457f29bdd2c761f7500b4a846c8adef960fcd9.pack
+│   │       └── pack-6a457f29bdd2c761f7500b4a846c8adef960fcd9.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── main
+│       └── tags
+├── i3
+│   └── .config
+│       └── i3
+│           └── config
+├── nvim
+│   └── .config
+│       └── nvim
+│           ├── init.lua
+│           ├── intellij
+│           │   └── .ideavimrc
+│           ├── lazy-lock.json
+│           ├── lua
+│           │   ├── config
+│           │   │   ├── commands.lua
+│           │   │   ├── lazy.lua
+│           │   │   ├── options.lua
+│           │   │   └── remap.lua
+│           │   └── plugins
+│           │       ├── catppuccin.lua
+│           │       ├── completions.lua
+│           │       ├── lualine.lua
+│           │       ├── neotree.lua
+│           │       └── telescope.lua
+│           ├── .luarc.json
+│           ├── README.md
+│           └── vscode
+│               └── init.lua
+├── oh-my-posh
+│   ├── catppuccin_mocha.omp.json
+│   └── README.md
+├── picom
+│   └── .config
+│       └── picom
+│           ├── example.conf
+│           └── picom.conf
+├── polybar
+│   └── .config
+│       └── polybar
+│           ├── config.ini
+│           └── launch.sh
+├── README.md
+├── rofi
+│   └── .config
+│       └── rofi
+│           ├── catppuccin-mocha.rasi
+│           ├── config.rasi
+│           └── dump.rasi
+└── tree.txt
+
+59 directories, 74 files
