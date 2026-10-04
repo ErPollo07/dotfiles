@@ -23,7 +23,7 @@ This will create a symlink.
 To verify if the symlink is created go to the first folder in your path and run:
 
 ```bash
-ls -latr
+ls -la
 ```
 
 If you see somethings like this:
