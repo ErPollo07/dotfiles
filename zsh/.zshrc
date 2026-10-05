@@ -26,7 +26,7 @@ C_USER='%(#.red.39)'
 C_PATH='213'
 C_BRANCH='white'
 
-# (utente㉿host)
+# (utente@host)
 _prompt_user() {
   print -rn -- "(%B%F{$C_USER}%n@%m%b%F{$C_FRAME})"
 }
@@ -46,7 +46,7 @@ _prompt_branch() {
 
 # $ oppure # per root
 _prompt_symbol() {
-  print -rn -- "%B%(#.%F{red}#.%F{blue}\$)%b%F{reset} "
+  print -rn -- "%B%F{$C_USER}%(#.#.\$)%b%F{reset} "
 }
 
 # Assembla il prompt prima di ogni comando
